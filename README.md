@@ -1,17 +1,17 @@
-HOME Live Website Package
+HOME website package (flat upload version)
 
-Files included:
+This package is designed for hosts that only accept individual files.
+
+Included files:
 - index.html
 - styles.css
 - script.js
-- assets/logo.png
+- README.md
 
-How to use:
-1. Upload all files and folders to your web host.
-2. Keep the folder structure the same, especially assets/logo.png.
-3. Make sure index.html stays in the root of the upload.
-
-Notes:
+Important:
+- The logo is embedded directly inside index.html, so there is no assets folder.
+- Upload all files to the root of your hosting project.
 - The contact form currently uses mailto:support@helping365247.com.
-- For a true web form that sends messages without opening an email app, connect Formspree, Netlify Forms, or another form service.
-- The services section uses one external Unsplash photo, so the host needs internet access for that image to display.
+
+
+Upload these files individually: index.html, styles.css, script.js, README.md, and logo.png.
