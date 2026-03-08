@@ -1,36 +1,20 @@
-# HOME Live-Ready Website Package
+HOME live-ready website package
 
-This is a static website package for **Helping Others Means Everything (HOME), LLC**.
+Files:
+- index.html
+- styles.css
+- script.js
+- logo.png
 
-## Files included
-- `index.html`
-- `styles.css`
-- `script.js`
+How to use:
+1. Upload all 4 files to your hosting service.
+2. Keep the filenames exactly the same.
+3. Make sure index.html and logo.png stay in the same location.
 
-## Upload to hosting
+Phone viewing:
+- After hosting, open your website URL on your cellphone.
+- If you want to test locally, use a phone file browser app or a simple local web server app.
 
-### Option 1: Netlify Drop
-1. Go to Netlify Drop.
-2. Drag the whole folder contents or a zip file into the browser.
-3. Your site will publish instantly.
-4. Connect your custom domain afterward.
-
-### Option 2: Vercel
-1. Create a new project in Vercel.
-2. Upload this folder.
-3. Deploy.
-4. Add your custom domain in project settings.
-
-## Important note about the contact form
-The current contact form uses `mailto:`. That means it tries to open the visitor's email app.
-For a true website form that sends messages automatically, connect one of these later:
-- Formspree
-- Netlify Forms
-- a custom email form service
-
-## Suggested next upgrades
-- add your logo
-- add testimonials
-- add staff application link
-- connect a real contact form
-- add service photos
+Contact form:
+- The current form uses mailto: support@helping365247.com
+- For automatic submissions, connect a real form service later.
