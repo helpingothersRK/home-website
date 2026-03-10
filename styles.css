@@ -168,7 +168,7 @@ h3 { margin: 0; }
 }
 @media (max-width: 768px) {
   .container { width: min(1120px, calc(100% - 24px)); }
-  .brand-logo { width: 75px; height: 75px; }
+  .brand-logo { width: 70px; height: 70px; }
   .brand-title { font-size: 0.95rem; }
   .brand-subtitle { font-size: 0.74rem; }
   .section { padding: 56px 0; }
